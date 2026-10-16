@@ -1,3 +1,0 @@
-Caso 1: iniciar sesión con usuario válido
-Caso 2: consultar una factura
-Caso 3: cerrar sesión

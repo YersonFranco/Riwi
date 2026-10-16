@@ -1,4 +1,0 @@
-Nombre: Luis Gómez
-Empresa: Taller Gómez
-Estado: activo
-Correo: luis@example.com

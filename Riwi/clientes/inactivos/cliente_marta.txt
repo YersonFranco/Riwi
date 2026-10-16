@@ -1,4 +1,0 @@
-Nombre: Marta Ríos
-Empresa: Librería Central
-Estado: inactivo
-Correo: marta@example.com
