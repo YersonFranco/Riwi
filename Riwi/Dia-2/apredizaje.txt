@@ -1,0 +1,5 @@
+1️⃣Herramientas de Desarrollo (Navegadores)
+2️⃣Herramientas de Desarrollo (Setup básico)
+3️⃣Explorando DevTools en un Entorno de Desarrollo Web
+4️⃣Instalación, Configuración y Gestión de Perfiles en VSCode
+5️⃣Exploración de VSCode y Primeros pasos con Python
